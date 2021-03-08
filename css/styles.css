@@ -10,7 +10,7 @@ h1 {
     font-family: 'Vibur';
     /* 16px (not dynamic) = 100% (dynamic) = 1em(inherits)/rem(doesn't inherit, Angela recommended) (dynamic) */
     font-size: 5.625rem;
-    color: #66BFBF;
+    color: #66BFBF ;
 }
 
 h2, h3 {
